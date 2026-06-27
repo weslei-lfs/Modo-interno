@@ -1,0 +1,6 @@
+{
+  "name": "MODO INTERNO",
+  "description": "Aplicativo nativo Android de rotina e vida organizada com dark mode permanente, controle financeiro, alimentação e foco offline.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
